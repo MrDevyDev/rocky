@@ -44,8 +44,8 @@ module.exports = {
     metadata: {
         title: `Rocky - Software Engineer and LGBTQ+.`,
         description: `Heyia, I'm Rocky, born at 3rd of January and currently live in USA.\nI'm Male and my pronouns are He/They!`,
-        image: `https://avatars.githubusercontent.com/u/71079641?v=4`,
-        domainName: `google.com`,
+        image: `https://media.discordapp.net/attachments/1203755858098520085/1203790596746252298/1544x1544_circle.png?ex=65d2605b&is=65bfeb5b&hm=811a84931696ea6281b5247d65f6ea1af5bfa6e24984588301b48541b0ef491b&=&format=webp&quality=lossless&width=662&height=662`,
+        domainName: `rocky-ecru.vercel.app`,
         color: `#f19bec`,
         keywords: [
             'Luna',
