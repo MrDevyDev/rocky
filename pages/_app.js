@@ -39,7 +39,7 @@ export default function render({ Component, pageProps }) {
                 <Layout light={light} setLight={setLight} />
                 <div className='set-luna'>
                     <button onClick={() => window.location.href = 'https://waya.one/go/luna'}>
-                        <div>Made with&nbsp;<AiFillHeart style={{ position: 'relative', top: 2 }} />&nbsp;by&nbsp;Luna</div>
+                        <div>Made with&nbsp;<AiFillHeart style={{ position: 'relative', top: 2 }} />&nbsp;by&nbsp;Rocky</div>
                     </button>
                 </div>
                 <Component {...pageProps} light={light} />
