@@ -46,7 +46,7 @@ export default function Homepage({ user, cards, error, light }) {
                             <strong style={{ fontSize: 27 }}>👋 About me</strong> <br />
                             <div style={{ marginTop: 8, marginLeft: 12, display: 'block' }}>
                                 I'm <strong>Rocky</strong>, born at <strong>3rd of January</strong> and currently live in <strong>//Unknown//</strong> near //Redacted//.. I'm some hobby <strong>Software Engineer</strong> and <strong>apart of LGBTQ+</strong>.
-                                I'm a proud <strong>Bisexual</strong> and currently have a crush haha
+                                I'm a proud <strong>Bisexual</strong> and currently have a boyfriend haha
 
                                 <br />
                                 <br />
