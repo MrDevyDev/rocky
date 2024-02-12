@@ -58,7 +58,7 @@ export default function Homepage({ user, cards, error, light }) {
 
                                 I currently mainly work at my <strong>heart project @Sodium</strong> - a multi-function moderation bot <br />
                                 with the main weight on <strong>Pronouns</strong> and <strong>Server Moderation</strong>. <br />
-                                You can learn more about it at <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://google.com')}>//SOON//</button> <img src='https://cdn.discordapp.com/emojis/959513603097116763.png?size=20&quality=lossless' style={{ position: 'relative', top: 3 }} draggable={false} />
+                                You can learn more about it at <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/3cfNGjWBfg')}>my Discord server</button> <img src='https://cdn.discordapp.com/emojis/959513603097116763.png?size=20&quality=lossless' style={{ position: 'relative', top: 3 }} draggable={false} />
                             </div>
                             <br />
                             <strong style={{ fontSize: 27 }}>🪄 Languages</strong><br />
@@ -72,7 +72,7 @@ export default function Homepage({ user, cards, error, light }) {
                             <strong style={{ fontSize: 27 }}>🍧 Contact</strong><br />
                             <div style={{ marginTop: 8, marginLeft: 12 }}>
                                 You want to collaborate with me or just want to have a nice talk in with my community? <br />
-                                Feel free to join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.com')}>Discord server //SOON// </button> and shoot a ping at me!
+                                Feel free to join my <button className='link' style={{ fontSize: '1.1rem' }} onClick={() => window.open('https://discord.gg/3cfNGjWBfg')}>Discord server</button> and shoot a ping at me!
                             </div>
 
                             {/* -- Start editing your bio above -- */}
